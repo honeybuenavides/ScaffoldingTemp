@@ -1,0 +1,1 @@
+C:\laravel\TailoringMS/resources/views/CustomerIndividuals/index.blade.php
